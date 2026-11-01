@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title description">
+  <title id="title">Default profile avatar</title>
+  <desc id="description">A simple person silhouette on a lavender background.</desc>
+  <rect width="64" height="64" rx="32" fill="#EAE1F1"/>
+  <circle cx="32" cy="24" r="11" fill="#6D4C8A"/>
+  <path d="M14 55c1.8-10.3 8.2-16 18-16s16.2 5.7 18 16" fill="#6D4C8A"/>
+</svg>
