@@ -1,37 +1,19 @@
-# SE331 Midterm Project - The CA?T Passport - tired
+# SE331 Final Project - BOMBA
 
-### Members
+## Members
 
-- Sattaporn Kowarakun (672115046)
-- Josh Michael Javier (672115504)
+Sattaporn Kowarakun (672115046)
 
-## Submission Links
+Josh Michael Javier (672115504)
 
-- **Deployed Website:** https://se331-2026-project01-tired.vercel.app/
-- **Demo Video:** https://youtu.be/Qdij7edPv_k
+## Repository Link
 
----
+**Front end:** https://github.com/chartchai-class/953331-2026-component-based-software-dev-project2-frontend-group-6
 
-## Test Accounts
+**Back end:** https://github.com/chartchai-class/953331-2026-component-based-software-dev-project-2-group-11
 
-| Username | Password     | Role           | Description                                    |
-| :------- | :----------- | :------------- | :--------------------------------------------- |
-| `admin`  | Any password | Admin          | Access admin user management and level details |
-| `user1`  | Any password | User (Level 1) | Default Level 1 member account                 |
-| `user3`  | Any password | User (Level 4) | Level 4 (Highest) member account               |
+## Deploy Link (Via Vercel, Render, Supabase)
 
----
+**Front end (Application):** https://se331-final-frontend-deploy.vercel.app/
 
-## Project Setup
-
-### Install Dependencies
-
-```sh
-npm install
-```
-
-### Run Locally
-
-```sh
-npm run dev
-```
+**Back end (Render URL):** https://nine53331-2026-component-based-software-oebn.onrender.com
